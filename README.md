@@ -17,3 +17,7 @@ git clone https://github.com/MohammadALSalamat/Fashore.git<br>
 
 3-) make sure to import the database into your XAMMP or LAMMP ,etc ....<br>
 4-) database table will find it into "Database Table" file.
+
+<strong>Note:</strong> to view the admin panel go to "localhost/admin"<br>
+username => abo21,<br>
+password =>12345
