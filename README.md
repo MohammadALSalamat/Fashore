@@ -6,9 +6,14 @@ Description : Admin panel for e-commerce website it has many features such as.<b
 3-) category section<br>
 4-) profile section<br>
 
+This application built usin laravel Framework<br>
+
 # how to use
 
 1-) download the files<br>
+<strong> OR</strong><br>
 2-) git clone by typing the below line in your terminal<br>
+git clone https://github.com/MohammadALSalamat/Fashore.git<br>
 
-<p style="background: gray">git clone https://github.com/MohammadALSalamat/Fashore.git</p>
+3-) make sure to import the database into your XAMMP or LAMMP ,etc ....<br>
+4-) database table will find it into "Database Table" file.
