@@ -9,5 +9,6 @@ Description : Admin panel for e-commerce website it has many features such as.<b
 # how to use
 
 1-) download the files<br>
-2-) git clone by typing the below line in your terminal
-git clone https://github.com/MohammadALSalamat/Fashore.git
+2-) git clone by typing the below line in your terminal<br>
+
+<p style="background: gray">git clone https://github.com/MohammadALSalamat/Fashore.git</p>
